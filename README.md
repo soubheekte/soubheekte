@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Soubheek 
 
-# 👀 I’m interested in Data Analyst 
+#### 👀 I’m interested in Data Analyst 
 
-# 🌱 I’m currently learning Data Analytical skill 
+#### 🌱 I’m currently learning Data Analytical skill 
 
-# 📫 How to reach me soubheek@gmail.com
+#### 📫 How to reach me soubheek@gmail.com
 
 <!--
 **soubheekte/soubheekte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
