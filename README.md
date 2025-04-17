@@ -1,8 +1,8 @@
-### 👋 Hi, I’m Soubheek 
+### 👋 Hi, I’m Soubheek Tewary
 
-#### 👀 I’m interested in Data Analyst/Science 
+#### 👀 I’m a Data Engineer working as ETL Developer 
 
-#### 🌱 I’m currently learning Data Analytical skill 
+#### 🌱 I’m currently into Data Science and Machine
 
 #### 📫 How to reach me soubheek@gmail.com
 
