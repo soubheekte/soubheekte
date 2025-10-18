@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Soubheek Tewary
 
-#### 👀 I’m a Data Engineer working as ETL Developer 
+#### 👀 I’m a Data Scientist/ ML Engineer 
 
-#### 🌱 I’m currently into Data Science and Machine
+#### 🌱 I’m currently looking for roles as ML Engineer.
 
 #### 📫 How to reach me soubheek@gmail.com
 
