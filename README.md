@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Soubheek Tewary
 
-#### 👀 I’m a Data Scientist/ ML Engineer 
+#### 👀 I’m a Data Engineer/ ML Engineer 
 
 #### 🌱 I’m currently looking for roles as ML Engineer.
 
